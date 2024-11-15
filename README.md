@@ -1,16 +1,32 @@
-## Hi there 👋
+<h2 align="center"> Hi there ! 👋🏽 </h2>
 
-<!--
-**tushar801/tushar801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :guard: About me : 
+
+
+
+- 👾 Powerful Full Stack Developer.
+
+
+
+- 💪🏽 Websites, Application and Software
+
+
+
+- 🙇🏻‍♂️ Everything Tech
+
+- 📧 How To Reach Me <a href="mailto:jaintushar801@gmail.com">Email</a> 
+
+
+### 🔥 My Stats : 
+
+
+
+
+
+<img width=300 height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar801&show_icons=true&theme=radical&layout=compact" />
+
+
+
+<img width=350 height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar801&theme=dracula" />
